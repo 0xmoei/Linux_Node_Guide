@@ -107,8 +107,14 @@ You need following details to connect to your VPS through SSH
 >
 > 3- Default SSH port is 22
 >
-> 4- After clicking `OK`, a Terminal opens which needs your `password`, Copy it & Paste it in the reminal by clicking `Mouse Middle Scroll Wheel`
+> 4- After clicking `OK`, a Terminal opens which needs your `password`, Copy it & Paste it in the reminal by clicking `Mouse Middle Scroll Wheel`, Password will be hidden in terminal
 > 
 ![Screenshot_5](https://github.com/user-attachments/assets/5c63934d-df07-4287-b87a-b98c6eb31156)
 
-Now you have a Terminal that you can write your commands in it
+### 4- Now you have a Terminal that you can write your commands in it
+SFTP: You can see your home: `/root/` directory & its files and folders in left side of the Mobaxterm client
+
+![Screenshot_6](https://github.com/user-attachments/assets/1e42f11e-c621-446a-9400-2ecab6e92546)
+
+
+
