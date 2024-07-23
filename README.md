@@ -15,7 +15,7 @@
 
 
 # This Guide Consists of:
-* 1- [How to Buy & Connect to VPS](https://github.com/0xmoei/Linux_Node_Guide/blob/main/Buy-VPS.md)
+* 1- [How to Buy & Connect to VPS](https://github.com/0xmoei/Linux_Node_Guide/blob/main/buy-vps.md)
 * 2- [Config VPS](https://github.com/0xmoei/Linux_Node_Guide/blob/main/linux-config.md)
 * 3- [Linux Commands](https://github.com/0xmoei/Linux_Node_Guide/blob/main/linux-commands.md)
 * Optional: [Create VPN](https://github.com/0xmoei/Linux_Node_Guide/blob/main/create-vpn.md)
