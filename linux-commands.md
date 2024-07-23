@@ -21,10 +21,6 @@ mkdir <folder name> <folder name2>
 mkdir moei
 ```
 
-### mv: Move files & Directories
-```console
-# mv <source> <destination>
-
 ### cd: go to directories
 ```console
 # Go to home , root directory
@@ -40,4 +36,28 @@ cd moei
 cd ..
 ```
 
+### mv: Move files & Directories
+```console
+# mv <source> <destination>
+```
 
+### rm
+```console
+# Remove a file
+rm -rf <file>
+
+# Remove a file in a directory
+rm -rf <directory/file>
+```
+
+### nano
+```console
+# Open edit menu of a file / if file doesn't exist, it creates it
+nano <file?
+```
+
+### git
+```console
+# Transfer a github repository into linux
+git clone https://github.com/0xmoei/Linux_Node_Guide
+```
