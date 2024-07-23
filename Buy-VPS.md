@@ -61,8 +61,11 @@ Let's list some of their servers orders:
 
 ![Screenshot_2](https://github.com/user-attachments/assets/fd9b2384-dba7-4b7b-a4a2-6d457b66ff12)
 
+![Screenshot_106](https://github.com/user-attachments/assets/a55459d4-9520-494a-9f2a-ae76f8c6cc0d)
+
+
 ### VPS details
-They will Email your `IP` & `password` after server installing ubuntu
+They will Email your `IP` & `password` after server installed Ubuntu
 
 
 ## Bartarvs
