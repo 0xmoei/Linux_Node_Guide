@@ -53,7 +53,7 @@ Let's list some of their servers orders:
 
 ![Screenshot_1](https://github.com/user-attachments/assets/3e1cf6a4-583a-41c6-a300-5d3e1b6d0dc2)
 
-### 2- I register my Contact Information and pay with my crypto wallet through Coinbase Commence payment method
+### 2- I register my Contact Information and pay with my metamask wallet through Coinbase Commence payment method
 
 ### 3- Install Ubuntu.22
 * After payment, I wait until my server to get `active` in `services` page
