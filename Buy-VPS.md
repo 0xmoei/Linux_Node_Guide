@@ -14,6 +14,8 @@ In order to buy a VPS ( Cloud Server), I introduce several good (in my opinion) 
 
 ### I'm not REPONSIBLE nor AFFILATED with any of these providers. I just used them before, and I think they are good choice. You can choose wherever you think is better
 
+#
+
 # 2- What system to buy
 Before buying a VPS, we must consider several components to choose the required system
 
@@ -22,6 +24,8 @@ Before buying a VPS, we must consider several components to choose the required 
 * `HDD`, `SSD`: Projects always consider the hard disk of the Nodes to be higher than required. In few nodes such as `Prover` or `Validator in Active-set` maybe a lot of hard disk is needed. Minimum is better to be `60` 
 * `Operating-system` must be `Ubuntu`, `Ubuntu 22` is usually compatible with every project
 * VPS must be ipv4 and must NOT be NAT
+
+#
 
 # 3- Let's Buy a VPS
 To understand better, let's buy a server from 2 Iranian and foreign providers
@@ -77,5 +81,34 @@ They will Email your `IP` & `password` after server installing ubuntu
 ### VPS details
 They will Email your `IP` & `password` after server activation
 
+#
+
 # 4- How to connect to VPS
-You will need 
+### 1- You need a client to connect to your VPS through SSH
+> List of Clients:
+>
+> 1- My prefer: Mobaxterm (has SFTP: you can manage your files & directories
+>
+> 2- Termius (has SFTP)
+>
+> 3- Putty (No SFTP, Just a terminal)
+
+### 2- VPS Details
+You need following details to connect to your VPS through SSH
+* `IP`: Provider will email you after activation
+* `Port`: Default open port for SSH connection is always `22`
+* `User`: Default user is always `root`
+* `Password`: Provider will email you after activation
+
+### 3- Connect via Mobaxterm
+> 1- Click `session` and open `SSH` tab
+>
+> 2- In `Remote host` you must fill your server IP, if you write `root@` behind it, it uses `root` as user
+>
+> 3- Default SSH port is 22
+>
+> 4- After clicking `OK`, a Terminal opens which needs your `password`, Copy it & Paste it in the reminal by clicking `Mouse Middle Scroll Wheel`
+> 
+![Screenshot_5](https://github.com/user-attachments/assets/5c63934d-df07-4287-b87a-b98c6eb31156)
+
+Now you have a Terminal that you can write your commands in it
