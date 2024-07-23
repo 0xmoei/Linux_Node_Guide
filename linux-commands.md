@@ -59,11 +59,34 @@ rm -rf <directory/file>
 ### nano
 ```console
 # Open edit menu of a file / if file doesn't exist, it creates it
-nano <file?
+nano <file>
+
+# CTRL + X + Y + ENTER to save & Exit
 ```
 
 ### git
 ```console
 # Transfer a github repository into linux
 git clone https://github.com/0xmoei/Linux_Node_Guide
+```
+
+### Screen
+* Sometimes we need a process to be running in the background while we exit the terminal and VPS
+* We can open a screen then enter our node commands in it
+* if we close the screen, we can return to it later
+```console
+# Install
+sudo apt install screen
+
+# Open a screen
+screen -S <screen-name>
+
+# Close screen
+CTRL + A + D
+
+# Screens list
+screen -ls
+
+# Return to screen
+screen -r <screen-name>
 ```
