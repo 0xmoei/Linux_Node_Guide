@@ -93,6 +93,14 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 
+## Open ports if needed
+```console
+sudo ufw allow port
+
+# Open port 3000
+sudo ufw allow 3000
+```
+
 ## htop
 Manage your linux components (CPU, Memory, Swap, Tasks, ..)
 ```console
