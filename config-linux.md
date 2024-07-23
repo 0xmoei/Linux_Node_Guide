@@ -1,4 +1,7 @@
 # Install Packages
+> Packages are like drivers of your linux system
+>
+> You must have specific packages installed to be able to run specific commands
 
 ## Update server packages
 Before any installation, you must update your packages
@@ -6,7 +9,7 @@ Before any installation, you must update your packages
 sudo apt-get update && sudo apt-get upgrade -y
 ```
 
-# Main Packages
+## Main Packages
 ```console
 sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
 ```
