@@ -93,13 +93,21 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 
-## Open ports if needed
+## lsof, ufw
 ```console
-sudo ufw allow port
+# ports in-use
+lsof -i -P -n | grep LISTEN
 
-# Open port 3000
+# What process is using port 80
+lsof -i :80
+
+# Open ports for external usage
+sudo ufw allow <port>
+
+# Example: Open port 3000
 sudo ufw allow 3000
 ```
+
 
 ## htop
 Manage your linux components (CPU, Memory, Swap, Tasks, ..)
