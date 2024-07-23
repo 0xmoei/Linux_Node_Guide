@@ -12,7 +12,7 @@ In order to buy a VPS ( Cloud Server), I introduce several good (in my opinion) 
 | [Bartarvs](https://bartarvs.net/)      | `Rial - Crypto` | `Iranian - Myloc & Contabo cloud servers are cheap and best` |
 | [Aeza](https://aeza.net/)     | `Crypto` | `Best for hourly servers` |
 
-### I'm not REPONSIBLE nor AFFILATED with any of these providers. I just used them before, and I think they are good choice. You can choose wherever you think is better
+### I'm not RESPONSIBLE nor AFFILATED with any of these providers. I just used them before, and I think they are good choice. You can choose wherever you think is better
 
 #
 
