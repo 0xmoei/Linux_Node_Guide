@@ -1,5 +1,11 @@
 # Linux Commands
 
+* [Top 50 commands](https://www.digitalocean.com/community/tutorials/linux-commands)
+
+* [Linux Commands](https://github.com/trinib/Linux-Bash-Commands)
+
+* [101 Linux Commands](https://github.com/bobbyiliev/101-linux-commands-ebook)
+
 ### ls: list directories
 ```console
 # List directories
