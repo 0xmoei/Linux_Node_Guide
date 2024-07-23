@@ -43,11 +43,39 @@ Let's list some of their servers orders:
 > 
 > High SSD - Out of stock right now: [Big Storage Servers](https://my.hostbrr.com/order/main/index/storage) 
 
-### I pick $14.99 VPS from [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13)
+### 1- I pick $14.99 VPS from [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13)
 
 * 4 vCore ,8GB RAM, 150 GB Storage can be a good choice for me
 
 ![Screenshot_1](https://github.com/user-attachments/assets/3e1cf6a4-583a-41c6-a300-5d3e1b6d0dc2)
 
+### 2- I register my Contact Information and pay with my crypto wallet through Coinbase Commence payment method
+
+### 3- Install Ubuntu.22
+* After payment, I wait until my server to get `active` in `services` page
+* We must install ubuntu manually in Hostbrr when server is activated
+
+![Screenshot_2](https://github.com/user-attachments/assets/fd9b2384-dba7-4b7b-a4a2-6d457b66ff12)
+
+### VPS details
+They will Email your `IP` & `password` after server installing ubuntu
 
 
+## Bartarvs
+> List of [Cloud Servers](https://bartarvs.net/server/cloud-server/)
+>
+> Cheap - Normal performance: [MyLoc](https://bartarvs.net/cloud-server-myloc-linux/)
+>
+> Cheapest - Good performance - I remember only 1 node had bandwidth issue: [Contabo](https://bartarvs.net/cloud-server-contabo/)
+
+### Config Before buy
+> in Iranian providers, you must choose configs before the payment, you usually don't have access to control panel and they will do the things for you with a ticket
+>
+> Remember to choose `Ubuntu 22` & `SSD (Higher storage)`
+![Screenshot_4](https://github.com/user-attachments/assets/ac636802-61bf-47d8-b462-36fed17142fe)
+
+### VPS details
+They will Email your `IP` & `password` after server activation
+
+# 4- How to connect to VPS
+You will need 
