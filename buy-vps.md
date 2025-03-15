@@ -11,7 +11,6 @@ In order to buy a VPS ( Cloud Server), I introduce several good (in my opinion) 
 | 3      | [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==)      | `Crypto` | `Cheap to Normal pricing, good performance` |
 | 4     | [PQhosting](https://pq.hosting/?from=687947)     | `Crypto` | `Good performance and some cheap servers` |
 | 5     | [Aeza](https://aeza.net/?ref=392339)     | `Crypto` | `Best for hourly servers, they have good servers sometimes` |
-| 6      | [Bartarvs](https://bartarvs.net/)      | `Rial - Crypto` | `Iranian - Myloc & Contabo cloud servers are cheap but myloc is low performance` |
 
 
 
@@ -70,23 +69,6 @@ Let's list some of their servers orders:
 
 ### VPS details
 They will Email your `IP` & `password` after server installed Ubuntu
-
-
-## Bartarvs
-> List of [Cloud Servers](https://bartarvs.net/server/cloud-server/)
->
-> Cheap - Normal performance: [MyLoc](https://bartarvs.net/cloud-server-myloc-linux/)
->
-> Cheapest - Good performance - I remember only 1 node had bandwidth issue: [Contabo](https://bartarvs.net/cloud-server-contabo/)
-
-### Config Before buy
-> in Iranian providers, you must choose configs before the payment, you usually don't have access to control panel and they will do the things for you with a ticket
->
-> Remember to choose `Ubuntu 22` & `SSD (Higher storage)`
-![Screenshot_4](https://github.com/user-attachments/assets/ac636802-61bf-47d8-b462-36fed17142fe)
-
-### VPS details
-They will Email your `IP` & `password` after server activation
 
 #
 
