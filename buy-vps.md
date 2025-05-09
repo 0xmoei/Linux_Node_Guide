@@ -39,6 +39,7 @@ This is not an advice to buy from them and I just want to show you the process
 
 ## Hostbrr
 Let's list some of their servers orders:
+* The list might be outdated, I **recommend** to go find yourself.
 
 > High RAM: [Memory-Optimized VPS](https://my.hostbrr.com/order/main/packages/largeram/?group_id=23&a=NTMxNw==)
 > 
