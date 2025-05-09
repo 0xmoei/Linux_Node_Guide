@@ -47,8 +47,6 @@ Let's list some of their servers orders:
 > Good CPU: [AMD Ryzen 9 7950XD](https://my.hostbrr.com/order/main/packages/vps7950/?group_id=14&a=NTMxNw==)
 > 
 > Good CPU - Cheaper: [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13&a=NTMxNw==)
-> 
-> High SSD - Out of stock right now: [Big Storage Servers]([https://my.hostbrr.com/order/main/index/storage](https://my.hostbrr.com/order/main/index/storage?a=NTMxNw==) 
 
 ### 1- I pick $14.99 VPS from [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13&a=NTMxNw==)
 
