@@ -40,17 +40,17 @@ This is not an advice to buy from them and I just want to show you the process
 ## Hostbrr
 Let's list some of their servers orders:
 
-> High RAM: [Memory-Optimized VPS](https://my.hostbrr.com/order/main/packages/largeram/?group_id=23)
+> High RAM: [Memory-Optimized VPS](https://my.hostbrr.com/order/main/packages/largeram/?group_id=23&a=NTMxNw==)
 > 
-> High RAM - Better net bandwidth: [RAM-Optimized - Premium](https://my.hostbrr.com/order/main/packages/largeram/?group_id=38)
+> High RAM - Better net bandwidth: [RAM-Optimized - Premium](https://my.hostbrr.com/order/main/packages/largeram/?group_id=38&a=NTMxNw==)
 > 
-> Good CPU: [AMD Ryzen 9 7950XD](https://my.hostbrr.com/order/main/packages/vps7950/?group_id=14)
+> Good CPU: [AMD Ryzen 9 7950XD](https://my.hostbrr.com/order/main/packages/vps7950/?group_id=14&a=NTMxNw==)
 > 
-> Good CPU - Cheaper: [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13)
+> Good CPU - Cheaper: [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13&a=NTMxNw==)
 > 
-> High SSD - Out of stock right now: [Big Storage Servers](https://my.hostbrr.com/order/main/index/storage) 
+> High SSD - Out of stock right now: [Big Storage Servers]([https://my.hostbrr.com/order/main/index/storage](https://my.hostbrr.com/order/main/index/storage?a=NTMxNw==) 
 
-### 1- I pick $14.99 VPS from [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13)
+### 1- I pick $14.99 VPS from [AMD Ryzen 9 5950X](https://my.hostbrr.com/order/main/packages/vpsgermany/?group_id=13&a=NTMxNw==)
 
 * 4 vCore ,8GB RAM, 150 GB Storage can be a good choice for me
 
