@@ -9,8 +9,7 @@
 * Optional: [Create VPN](https://github.com/0xmoei/Linux_Node_Guide/blob/main/create-vpn.md)
 
 ## Errors
-* The best way to find solutions for your errors is the project's discord or GPT4 & GPT Claude
-* One of the best choices for GPT is [MyShell](https://app.myshell.ai/invite/136650)
+* The best way to find solutions for your errors is the project's discord or chat gpts
 
 ## Follow me
 * However you must have my [Github](https://github.com/0xmoei) & [Twitter](https://x.com/0xMoei) followed for new node testnet updates
