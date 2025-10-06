@@ -2,7 +2,7 @@
 
 The first thing that is needed to participate in Node Testnets is a VPS server
 
-In order to buy a VPS ( Cloud Server), I introduce several good (in my opinion) foreign & Iranian providers with and without crypto payment with brief information
+In order to buy a VPS ( Cloud Server), I introduce several good (in my opinion) providers with and without crypto payment with brief information
 
 | Rank | Provider |   Payment Method   | Discription                     |
 | :-------- | :-------- | :------- | :-------------------------------- |
